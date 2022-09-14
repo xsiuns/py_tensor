@@ -3,4 +3,4 @@
 ![RubberDuck](/main.jpg)
 <img src="/main.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
--[파이토치 개념 01][https://github.com/xsiuns/py_tensor/blob/main/pytorch_learn00.ipynb]
+-[파이토치 개념 01](https://github.com/xsiuns/py_tensor/blob/main/pytorch_learn00.ipynb, "pytorch_learn00 link")
